@@ -1,0 +1,25 @@
+{
+  "name": "todo-restful-api",
+  "version": "1.0.0",
+  "description": "RESTful TODO List API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvaTsu/todo-restful-api.git"
+  },
+  "keywords": [
+    "REST",
+    "TODO",
+    "LIST",
+    "API"
+  ],
+  "author": "IvTs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvaTsu/todo-restful-api/issues"
+  },
+  "homepage": "https://github.com/IvaTsu/todo-restful-api#readme"
+}
